@@ -1,4 +1,4 @@
-# virtusalesPlayW
+# Virtusales PlayW
 Automation regression tests designed for Virtusales homepage  
 
 To run a test in a browser use:
